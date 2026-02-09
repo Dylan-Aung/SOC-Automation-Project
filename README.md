@@ -17,8 +17,8 @@ The workflow also supports bi-directional response, allowing analysts to trigger
 | **Name**      | **Links**               |
 |---------------|---------------------------|
 | Virtual Box | https://www.virtualbox.org/|
-| Windows Server | https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022?msockid=32a1545e94ca6f9833da42b695216ec9 |
-| Window 11 Pro |  |
-| Duo Admin Account | https://duo.com/ |
-| Duo Window Logon Installer | https://duo.com/docs/checksums#duo-windows-logon |
-| Duo Mobile App | **Can download Ios and Android** |
+| Window 11 | https://www.microsoft.com/en-us/software-download/windows11 |
+| Sysmon | https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon |
+| Sysmon Config | https://github.com/olafhartong/sysmon-modular |
+| Wazuh | [https://duo.com/docs/checksums#duo-windows-logon](https://documentation.wazuh.com/current/quickstart.html) |
+| TheHive | https://docs.strangebee.com/thehive/installation/installation-guide-linux-standalone-server/ |
