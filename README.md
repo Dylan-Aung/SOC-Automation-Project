@@ -22,3 +22,4 @@ The workflow also supports bi-directional response, allowing analysts to trigger
 | Sysmon Config | https://github.com/olafhartong/sysmon-modular |
 | Wazuh | [https://duo.com/docs/checksums#duo-windows-logon](https://documentation.wazuh.com/current/quickstart.html) |
 | TheHive | https://docs.strangebee.com/thehive/installation/installation-guide-linux-standalone-server/ |
+| Shuffle | https://shuffler.io/ |
