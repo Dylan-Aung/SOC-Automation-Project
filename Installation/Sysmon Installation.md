@@ -60,8 +60,13 @@ It is widely used in SOC, DFIR, Threat Hunting, and SIEM environments.
 > ## Now, Sysmon is started.
 <p align="center"><img src="https://github.com/user-attachments/assets/9fa4112d-8d8e-42ac-8d27-aa5351665d1d"></p>
 
-> ## If want to check services is running or not, check these steps
+> ## If want to check services is running or not, check these steps. After that, you will see service is running.
 <p align="center"><img src="https://github.com/user-attachments/assets/a8f44188-50fb-412a-85a9-589fd35d56d2"></p>
+
+> ## Check in Event Viewer, sysmon is working or not. Scroll down to see Sysmon tab.
+<p align="center"><img src="https://github.com/user-attachments/assets/c5116a6a-2923-4cb9-8b55-8f0fe201e157"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/8828789c-8010-478e-ab5b-559a0b9f9976"></p>
+
 
 
 
