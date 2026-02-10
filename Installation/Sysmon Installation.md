@@ -67,6 +67,6 @@ It is widely used in SOC, DFIR, Threat Hunting, and SIEM environments.
 <p align="center"><img src="https://github.com/user-attachments/assets/c5116a6a-2923-4cb9-8b55-8f0fe201e157"></p>
 <p align="center"><img src="https://github.com/user-attachments/assets/8828789c-8010-478e-ab5b-559a0b9f9976"></p>
 
-
+# Don't forget to do Snapshot after installed something.
 
 
