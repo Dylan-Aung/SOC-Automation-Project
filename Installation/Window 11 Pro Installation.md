@@ -11,6 +11,9 @@
 
 ---
 
+> ## Click `New` on left corner and Create `New Virtual Machine`
+<p align="center"><img src="https://github.com/user-attachments/assets/dcf4332a-7f18-41ad-8e12-67c22604aeda"></p>
+
 
 
 
