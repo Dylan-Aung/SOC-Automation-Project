@@ -1,4 +1,4 @@
-<img width="1014" height="720" alt="image" src="https://github.com/user-attachments/assets/de16ba11-4a1b-4a10-b85c-3ceccae39ef7" /># 🛡️ Sysmon Installation Guide (Windows)
+# 🛡️ Sysmon Installation Guide (Windows)
 📌 What is Sysmon?
 
 > ## Sysmon (System Monitor) is a Windows system service and driver that logs detailed system activity such as:
