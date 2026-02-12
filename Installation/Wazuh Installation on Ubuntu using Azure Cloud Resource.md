@@ -14,3 +14,11 @@
 
 ---
 
+> ## We are going to update.
+```
+apt-get update && apt-get upgrade -y
+```
+<p align="center"><img src="https://github.com/user-attachments/assets/3fc193ad-045d-4941-ae40-6d3048e99a43"></p>
+
+
+
